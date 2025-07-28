@@ -1,0 +1,24 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Ignore local environment files
+.env
+*.env
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore SageMaker/Studio hidden files
+.sagemaker/
+
+# Ignore virtual environments if created locally
+venv/
+.env/
