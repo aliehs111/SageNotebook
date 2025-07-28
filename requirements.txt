@@ -4,3 +4,4 @@ scikit-learn
 pandas
 boto3
 python-dotenv
+sagemaker>=2.132.0
